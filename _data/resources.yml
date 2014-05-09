@@ -251,7 +251,7 @@
   role:
     - additional
 
-- name: "Campus Clarity"
+- name: "CampusClarity"
   type:
     - public-awareness-education
   url: "http://www.campusclarity.com"
