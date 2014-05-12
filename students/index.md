@@ -18,7 +18,7 @@ description: Information about legal rights, how to file a complaint, definition
 #### Go to urgent care (e.g., a hospital):
 *	Receive help for physical injuries. 
 * Screen for STDs/pregnancy. 
-* If possible, do not shower or cleaning up. Do not change clothes. Hospital staff can collect evidence using a rape kit.
+* If possible, do not shower or clean up. Do not change clothes. Hospital staff can collect evidence using a rape kit.
 * If you want to file a police report, you can call the police from the emergency room. 
 * Ask about the [nearest rape crisis center]({{ site.baseurl }}/resources/#find-a-service-near-you).
 
