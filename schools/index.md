@@ -205,7 +205,7 @@ This document created by the Centers for Disease Control and Prevention describe
 
 
 <div class="section-context-links">
-* [Read the CDC report on best practices for sexual violence prevention]({{ site.baseurl }}/assets/evidence-based-strategies-for-the-prevention-of-sv-perpetration.pdf)
+* [Read the CDC report on best practices for sexual violence prevention]({{ site.baseurl }}/assets/preventing-sexual-violence-on-college-campuses-lessons-from-research-and-practice.pdf)
 </div>	
 </div>
 </div>
