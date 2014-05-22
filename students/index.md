@@ -26,7 +26,7 @@ description: Information about legal rights, how to file a complaint, definition
 Take care of your physical and emotional well-being. Try to eat well, get enough sleep, and exercise. Remember that it was not your fault and you are not alone.
 
 #### Learn about common reactions to trauma. 
-Everyone is different, but it is good to understand [what you might expect](http://www.ptsd.va.gov/public/problems/common-reactions-after-trauma.asp) and know that others have experienced similar reactions.
+Everyone is different, but it is good to understand [what you might expect]({{ site.baseurl }}/assets/evidence-based-strategies-for-the-prevention-of-sv-perpetration.pdf) and know that others have experienced similar reactions.
 
 #### Let others help. 
 *	**Friends and family** can offer support by listening to you, keeping you company, walking to class with you, or going with you to appointments.
