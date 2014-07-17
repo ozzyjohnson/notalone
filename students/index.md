@@ -5,7 +5,7 @@ description: Information about legal rights, how to file a complaint, definition
 
 ---
 
-## What do I do if I have been sexually assaulted? 
+## [What do I do if I have been sexually assaulted?](#what-do-i-do-if-i-have-been-sexually-assaulted)
 
 ### Immediately after an assault 
 
@@ -43,7 +43,7 @@ Everyone is different, but it is good to understand [what you might expect]({{ s
 * If your school does not offer mental health services, find a provider [here](http://samhsa.gov/tools/).
 
 
-## Know Your Rights
+## [Know Your Rights](#know-your-rights)
 <div class="section-context">
 <div class="section-context-text">
 ### Your Title IX Rights
@@ -71,7 +71,7 @@ Sex-based discrimination in public schools also implicates legal rights under Ti
 </div>
 </div>
 
-## How Do I File a Complaint About My School? And Then What Happens? 
+## [How Do I File a Complaint About My School? And Then What Happens?](#how-do-i-file-a-complaint-about-my-school-and-then-what-happens)
 <div class="section-context">
 ### Can I File a Complaint?
 
@@ -139,7 +139,7 @@ After receiving a complaint, DOJ conducts an initial review. DOJ will inform you
 </div>
 </div>
 
-## Will What I Share Remain Confidential?
+## [Will What I Share Remain Confidential?](#will-what-i-share-remain-confidential)
 
 <div class="section-context">
 ###Understanding Confidentiality
@@ -172,10 +172,10 @@ The Office for Civil Rights in the U.S. Department of Health and Human Services 
 </div>
 
 
-## Key Terms and Definitions
+## [Key Terms and Definitions](#key-terms-and-definitions)
 {% include key-terms.html %}
 
-## How Can I Help a Friend?
+## [How Can I Help a Friend?](#how-can-i-help-a-friend)
 
 * You can help someone who has been assaulted by listening and offering comfort. 
 * Go with her or him to the health center, hospital, administrator’s office or counseling. 
