@@ -4,7 +4,7 @@ title: Schools
 description: Legal guidance, promising practices, and prevention resources for schools. 
 ---
 
-## [Legal Guidance](#legal-guidance)
+## Legal Guidance
 <div class="section-context">
 ### Title IX Compliance Requirements
 <div class="section-context-text">
@@ -75,7 +75,7 @@ description: Legal guidance, promising practices, and prevention resources for s
 </div>
 
 
-## [Understanding FERPA, the Clery Act, and Title IX](#understanding-ferpa-the-clery-act-and-title-ix)
+## Understanding FERPA, the Clery Act, and Title IX
 
 Colleges and universities that participate in the federal student financial aid programs are subject to Title IX and the Clery Act, and must comply their requirements that certain employees report incidents of sexual violence to school officials and notify students about the outcome when they file complaints of sexual violence. 
 
@@ -86,7 +86,7 @@ We created a chart to help schools understand these requirements, clarify how th
 </div>	
 
 
-## [Maintaining Confidentiality](#maintaining-confidentiality)
+## Maintaining Confidentiality
 
 ### Principles of Confidentiality
 
@@ -113,7 +113,7 @@ The Office for Civil Rights in the Department of Health and Human Services has a
 </div>
 </div>
 
-## [Developing Sexual Assault Policies and Procedures](#developing-sexual-assault-policies-and-procedures)
+## Developing Sexual Assault Policies and Procedures
 
 ### Guide to Drafting a Sexual Assault Policy
 
@@ -181,7 +181,7 @@ Many schools are working to address sexual assault on their campuses, but lack a
 </div>
 </div>
 
-## [Prevention Resources](#prevention-resources)
+## Prevention Resources
 
 <div class="section-context">
 ### Empowering Bystanders to Act
