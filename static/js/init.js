@@ -53,6 +53,10 @@ $(function() {
 
   if (window.location.pathname.match(/^\/(students|schools)/)) {
     $collapsibles = $('h2');
+    $collapsibles.wrapInner(function(){
+      return "<button title='Expand section'></button>";
+    });
+
     $collapsibles.not(':first')
       .before('<div class="close-collapsible"><button class="btn">Close</button></div>');
     $collapsibles.last().nextUntil('footer').last()
@@ -83,6 +87,7 @@ $(function() {
 
 $(function() {
   $('a[href*=#]:not([href=#])').click(function() {
+    this.click
     if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
       var target = $(this.hash);
       target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
@@ -96,6 +101,7 @@ $(function() {
   });
   
   if (window.location.hash != '') {
+
     var target = window.location.hash;
     $(target).addClass('hash-scrolled');
     var scrolly = $(target).offset().top;
