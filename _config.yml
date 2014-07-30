@@ -9,7 +9,7 @@ pygments: true
 canonical: https://www.notalone.gov
 
 # any path prefix to apply, run with --baseurl="" in development
-baseurl: /campus
+baseurl: /notalone
 
 kramdown:
   parse_block_html: true
