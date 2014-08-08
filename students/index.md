@@ -37,7 +37,7 @@ Everyone is different, but it is good to understand [what you might expect]({{ s
 
 ### Months after an assault
 
-* Recovery is an **ongoing gradual process**. Understand [common reactions after trauma]({{ site.baseurl }}/assets/preventing-sexual-violence-on-college-campuses-lessons-from-research-and-practice.pdf). Some symptoms may appear months after an assault.
+* Recovery is an **ongoing gradual process**. Understand [common reactions after trauma](http://www.ptsd.va.gov/public/problems/common-reactions-after-trauma.asp). Some symptoms may appear months after an assault.
 * **Reach out** to your personal support network of friends and family. Find a support group.
 * **Talk to a counselor or psychologist.** They are experienced in helping individuals who have been sexually assaulted. They are familiar with the physiological and psychological effects that traumatic events cause. They can help you work through your emotions and teach you coping skills. Learn more [here](http://www.womenshealth.gov/mental-health/help/index.html).
 * If your school does not offer mental health services, find a provider [here](http://samhsa.gov/tools/).
