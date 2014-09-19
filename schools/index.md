@@ -153,26 +153,26 @@ Under Title IX of the Education Amendments of 1972, any educational institution 
 </div>
 
 <div class="section-context">
-    <div class="section-context-text">
-        ### Elements of Providing Victim Services Information
+<div class="section-context-text">
+### Elements of Providing Victim Services Information
 
-        #### Key Components of Sexual Assault Crisis Intervention/Victim Service Resources
+#### Key Components of Sexual Assault Crisis Intervention/Victim Service Resources
 
-        Most colleges and universities seek to provide services and advocacy for victims of sexual assault. These services may be provided on campus or off campus via a memorandum of understanding with a local rape crisis center or victim advocacy program. This document discusses the existing research on sexual assault crisis intervention and victim services. It is meant to be the start of a conversation for schools as they work to ensure accessible support services for victims on their campuses.
+Most colleges and universities seek to provide services and advocacy for victims of sexual assault. These services may be provided on campus or off campus via a memorandum of understanding with a local rape crisis center or victim advocacy program. This document discusses the existing research on sexual assault crisis intervention and victim services. It is meant to be the start of a conversation for schools as they work to ensure accessible support services for victims on their campuses.
 
-        <div class="section-context-links">
-            * [Read the victim services document]({{ site.baseurl }}/assets/intervention-resources.pdf)
-        </div>
-    </div>
+<div class="section-context-links">
+* [Read the victim services document]({{ site.baseurl }}/assets/intervention-resources.pdf)
+</div>
+</div>
 
-    <div class="section-context-text">
-        ### Guidance for Developing Partnerships with Local Rape Crisis Centers
-        Colleges and universities can strengthen sexual assault prevention and response programs by developing partnerships with local rape crisis centers. These partnerships can be formalized through a Memorandum of Understanding (MOU) or other agreement between parties. MOUs are often mandated in grant applications, but schools should consider developing these partnerships regardless of whether they are applying for funding. This document provides guidance for developing these relationships along with a sample MOU.
+<div class="section-context-text">
+### Guidance for Developing Partnerships with Local Rape Crisis Centers
+Colleges and universities can strengthen sexual assault prevention and response programs by developing partnerships with local rape crisis centers. These partnerships can be formalized through a Memorandum of Understanding (MOU) or other agreement between parties. MOUs are often mandated in grant applications, but schools should consider developing these partnerships regardless of whether they are applying for funding. This document provides guidance for developing these relationships along with a sample MOU.
 
-        <div class="section-context-links">
-            * [Read guidance and the sample rape crisis center memorandum of understanding]({{ site.baseurl }}/assets/mou-rape-crisis-centers.pdf)
-        </div>
-    </div>
+<div class="section-context-links">
+* [Read guidance and the sample rape crisis center memorandum of understanding]({{ site.baseurl }}/assets/mou-rape-crisis-centers.pdf)
+</div>
+</div>
 </div>
 
 <div class="section-context">
