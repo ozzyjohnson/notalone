@@ -128,27 +128,51 @@ We have not endeavored with this checklist to provide schools with all the answe
 * [Read the sexual misconduct policy checklist]({{ site.baseurl }}/assets/checklist-for-campus-sexual-misconduct-policies.pdf)
 </div>
 
+### Role of Title IX Coordinator
+
+A school’s Title IX coordinator(s) is expected to play a critical role in helping a school ensure that every person affected by its operations—including faculty, staff, and students—are aware of their legal rights under Title IX, and that the school and all of its officials, through its policies, procedures, and practices, complies with its legal obligations under Title IX. This sample language can serve as a guide that highlights issues for schools to consider when assigning the Title IX coordinator functions and responsibilities related to their response to incidents of sexual misconduct.
+
+<div class="section-context-links">
+* [Read about the Role of a Title IX Document]({{ site.baseurl }}/assets/role-of-title-ix-coordinator.pdf)
+</div>
+
+### Interim and supportive measures for victims
+
+Interim measures are the services, accommodations, or other assistance that colleges must provide to victims after notice of alleged sexual misconduct but before any final school outcomes – investigatory, disciplinary, or remedial – have been determined. This document provides assistance on how “interim measures” required by Title IX can be incorporated into a college’s sexual misconduct policy and offers sample policy language.  In addition, schools can offer supportive measures to victims who do not report the sexual violence, but are seeking assistance from through counselors and victim advocates. This sample language can help schools develop policies in both these areas.
+
+<div class="section-context-links">
+* [Learn About Interim and Supportive Measures for Victims]({{ site.baseurl }}/assets/interim-and-supportive-measures.pdf)
+</div>
+
+### Definitions of key terms in sexual misconduct policies
+
+Under Title IX of the Education Amendments of 1972, any educational institution receiving Federal financial assistance must notify the school community of its nondiscrimination policy, and must adopt and publish grievance procedures providing for the prompt and equitable resolution of sex discrimination complaints.  This sample language will help schools ensure that students have a clear understanding of what constitutes sexual misconduct, when such conduct creates a hostile environment, the potential consequences for such conduct, and how the school processes complaints. 
+
+<div class="section-context-links">
+* [Read the Definitions of Prohibited Conduct]({{ site.baseurl }}/assets/definitions-of-prohibited-conduct.pdf)
+</div>
+
 <div class="section-context">
-<div class="section-context-text">
-### Elements of Providing Victim Services Information
+    <div class="section-context-text">
+        ### Elements of Providing Victim Services Information
 
-#### Key Components of Sexual Assault Crisis Intervention/Victim Service Resources
+        #### Key Components of Sexual Assault Crisis Intervention/Victim Service Resources
 
-Most colleges and universities seek to provide services and advocacy for victims of sexual assault. These services may be provided on campus or off campus via a memorandum of understanding with a local rape crisis center or victim advocacy program. This document discusses the existing research on sexual assault crisis intervention and victim services. It is meant to be the start of a conversation for schools as they work to ensure accessible support services for victims on their campuses.
+        Most colleges and universities seek to provide services and advocacy for victims of sexual assault. These services may be provided on campus or off campus via a memorandum of understanding with a local rape crisis center or victim advocacy program. This document discusses the existing research on sexual assault crisis intervention and victim services. It is meant to be the start of a conversation for schools as they work to ensure accessible support services for victims on their campuses.
 
-<div class="section-context-links">
-* [Read the victim services document]({{ site.baseurl }}/assets/intervention-resources.pdf)
-</div>
-</div>
+        <div class="section-context-links">
+            * [Read the victim services document]({{ site.baseurl }}/assets/intervention-resources.pdf)
+        </div>
+    </div>
 
-<div class="section-context-text">
-### Guidance for Developing Partnerships with Local Rape Crisis Centers
-Colleges and universities can strengthen sexual assault prevention and response programs by developing partnerships with local rape crisis centers. These partnerships can be formalized through a Memorandum of Understanding (MOU) or other agreement between parties. MOUs are often mandated in grant applications, but schools should consider developing these partnerships regardless of whether they are applying for funding. This document provides guidance for developing these relationships along with a sample MOU.
+    <div class="section-context-text">
+        ### Guidance for Developing Partnerships with Local Rape Crisis Centers
+        Colleges and universities can strengthen sexual assault prevention and response programs by developing partnerships with local rape crisis centers. These partnerships can be formalized through a Memorandum of Understanding (MOU) or other agreement between parties. MOUs are often mandated in grant applications, but schools should consider developing these partnerships regardless of whether they are applying for funding. This document provides guidance for developing these relationships along with a sample MOU.
 
-<div class="section-context-links">
-* [Read guidance and the sample rape crisis center memorandum of understanding]({{ site.baseurl }}/assets/mou-rape-crisis-centers.pdf)
-</div>
-</div>
+        <div class="section-context-links">
+            * [Read guidance and the sample rape crisis center memorandum of understanding]({{ site.baseurl }}/assets/mou-rape-crisis-centers.pdf)
+        </div>
+    </div>
 </div>
 
 <div class="section-context">
