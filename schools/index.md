@@ -133,7 +133,7 @@ We have not endeavored with this checklist to provide schools with all the answe
 A school’s Title IX coordinator(s) is expected to play a critical role in helping a school ensure that every person affected by its operations—including faculty, staff, and students—are aware of their legal rights under Title IX, and that the school and all of its officials, through its policies, procedures, and practices, complies with its legal obligations under Title IX. This sample language can serve as a guide that highlights issues for schools to consider when assigning the Title IX coordinator functions and responsibilities related to their response to incidents of sexual misconduct.
 
 <div class="section-context-links">
-* [Read about the Role of a Title IX Document]({{ site.baseurl }}/assets/role-of-title-ix-coordinator.pdf)
+* [Read about the Role of a Title IX Coordinator]({{ site.baseurl }}/assets/role-of-title-ix-coordinator.pdf)
 </div>
 
 ### Interim and supportive measures for victims
