@@ -497,6 +497,15 @@
   role:
     - additional
 
+- name: "MaleSurvivor"
+  type:
+    - survivor-services
+  url: "http://www.malesurvivor.org"
+  description: "An organization providing critical resources to male survivors of sexual trauma and all their partners in recovery by building communities of Hope, Healing, & Support."
+  role:
+    - additional
+
+
 - name: "OK2TALK"
   type:
     - survivor-services
