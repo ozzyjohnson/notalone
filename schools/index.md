@@ -11,18 +11,19 @@ permalink: /schools/
 <div class="section-context-text">
 #### Questions and Answers on Title IX and Sexual Violence (2014)
 
-- In April 2014, the U.S. Department of Education’s Office for Civil Rights (OCR) issued a questions and answers document to provide additional guidance to federally funded education institutions about their obligations under Title IX to address sexual violence.
+- In April 2014, the U.S. Department of Education’s Office for Civil Rights (OCR) issued a question-and-answer document to provide additional guidance to federally funded schools about their obligations under Title IX to address sexual violence.
 - This guidance further clarifies the legal requirements under Title IX articulated in OCR’s 2011 Dear Colleague Letter on Sexual Violence and its 2001 Revised Sexual Harassment Guidance.
+-	Although some examples in this Q&A are applicable only to institutions of higher education, the legal obligations outlined in the letter also apply to elementary and secondary schools.
 
 <div class="section-context-links">
-* [Read the questions and answers document](http://www2.ed.gov/about/offices/list/ocr/docs/qa-201404-title-ix.pdf)
+* [Read the question-and-answer document](http://www2.ed.gov/about/offices/list/ocr/docs/qa-201404-title-ix.pdf)
 </div>
 </div>
 
 <div class="section-context-text">
 #### Retaliation Guidance (2013)
 
-- In April 2013, the U.S. Department of Education’s Office for Civil Rights (OCR) issued guidance to remind federally funded education institutions that retaliation is a violation of federal law.
+-	In April 2013, the U.S. Department of Education’s Office for Civil Rights (OCR) issued guidance to remind federally funded schools that retaliation is a violation of federal law.
 - Under federal civil rights laws, including Title IX, it is illegal for a school to retaliate against an individual for speaking out against possible civil rights problems at the school.
 - The prohibition against retaliation means that if a student, parent, teacher, professor, coach, or other individual complains formally or informally to a school about a potential civil rights violation, such as failure to address sexual violence, or participates in an OCR or school investigation or proceeding, the school is prohibited from retaliating against the individual because of their complaint or participation.
 
@@ -35,21 +36,23 @@ permalink: /schools/
 <div class="section-context">
 <div class="section-context-text">
 #### Dear Colleague Letter on Sexual Violence (2011)
-- In April 2011, the U.S. Department of Education’s Office for Civil Rights (OCR) issued a Dear Colleague Letter, also known as guidance, to remind schools of their obligations to prevent and address sexual violence under Title IX.
+- In April 2011, the U.S. Department of Education’s Office for Civil Rights (OCR) issued a Dear Colleague Letter, providing guidance to schools on their obligations to prevent and address sexual violence under Title IX.
 - It reiterates that under Title IX, all schools that receive federal funds must take immediate and effective steps to respond to sexual violence.
+- Although some examples in this letter are applicable only to institutions of higher education, the legal obligations outlined in the letter also apply to elementary and secondary schools.
 
 <div class="section-context-links">
-* [Read the guidance](http://www2.ed.gov/about/offices/list/ocr/letters/colleague-201104.pdf)
+* [Read the guidance on sexual violence](http://www2.ed.gov/about/offices/list/ocr/letters/colleague-201104.pdf)
 </div>
 </div>
 
 <div class="section-context-text">
 #### Dear Colleague Letter on Harassment and Bullying (2010)
-- The U.S. Department of Education’s Office for Civil Rights (OCR) released a Dear Colleague Letter in October 2010 to clarify the relationship between bullying and discriminatory harassment under civil rights laws.
-- The guidance discusses sexual harassment, gender-based harassment, racial and national origin harassment, and disability harassment and illustrates how a school should respond in each case.
+-	The U.S. Department of Education’s Office for Civil Rights (OCR) released a Dear Colleague Letter in October 2010 to clarify the relationship between bullying and discriminatory harassment under civil rights laws.
+-	The guidance discusses sexual harassment, gender-based harassment, racial and national origin harassment, and disability harassment and illustrates how a school should respond in each case.
+-	Although this letter focuses on elementary and secondary schools, the legal principles outlined in the letter also apply to institutions of higher education.
 
 <div class="section-context-links">
-* [Read the guidance](http://www2.ed.gov/about/offices/list/ocr/letters/colleague-201010.pdf)
+* [Read the guidance on harassment and bullying](http://www2.ed.gov/about/offices/list/ocr/letters/colleague-201010.pdf)
 </div>
 </div>
 </div>
@@ -61,7 +64,7 @@ permalink: /schools/
 - This document is a great resource for students, parents, school administrators, school employees, and others.
 
 <div class="section-context-links">
-* [Read the pamphlet](https://www2.ed.gov/about/offices/list/ocr/docs/ocrshpam.pdf)
+* [Read the pamphlet on sexual harassment](https://www2.ed.gov/about/offices/list/ocr/docs/ocrshpam.pdf)
 </div>
 </div>
 
@@ -70,20 +73,9 @@ permalink: /schools/
 - The U.S. Department of Education’s Office for Civil Rights (OCR) issued guidance in January 2001 on the sexual harassment of students by school employees, other students, or third parties. The guidance discusses in detail schools’ obligations to address the sexual harassment of students under Title IX.
 
 <div class="section-context-links">
-* [Read the guidance](http://www2.ed.gov/about/offices/list/ocr/docs/shguide.pdf)
+* [Read the guidance on sexual harassment](http://www2.ed.gov/about/offices/list/ocr/docs/shguide.pdf)
 </div>
 </div>
-</div>
-
-
-## Understanding FERPA, the Clery Act, and Title IX
-
-Colleges and universities that participate in the federal student financial aid programs are subject to Title IX and the Clery Act, and must comply their requirements that certain employees report incidents of sexual violence to school officials and notify students about the outcome when they file complaints of sexual violence.
-
-We created a chart to help schools understand these requirements, clarify how they intersect with students' rights under FERPA, and resolve any concerns about apparent conflicts.
-
-<div class="section-context-links">
-* [Review the FERPA/Clery/Title IX Chart]({{ site.baseurl }}/assets/ferpa-clerychart.pdf)
 </div>
 
 
@@ -91,13 +83,13 @@ We created a chart to help schools understand these requirements, clarify how th
 
 ### Principles of Confidentiality
 
-Schools often struggle with balancing a survivor’s confidentiality and fulfilling their obligation to provide a safe campus for everyone by holding perpetrators accountable.  But a few guiding principles should inform any reporting and confidentiality protocol: namely that confidentiality must give survivors choices and not shield a school from inaction.  To the greatest extent possible, the survivor’s wishes should be respected, whether it be for a full investigation – or not.
+Schools often struggle with balancing a survivor’s confidentiality and fulfilling their obligation to provide a safe educational environment for everyone by holding perpetrators accountable. But a few guiding principles should inform any reporting and confidentiality protocol: namely, confidentiality must give survivors choices and not shield a school from inaction. To the greatest extent possible, the survivor’s wishes should be respected, whether it be for a full investigation – or not.
 
-It’s also true that there’s no one-size-fits-all model of survivor care.  There must be options, which means that schools should make it clear up front who on campus must share what information with whom – and the circumstances in which a school may need to override a request for confidentiality and conduct an investigation to protect the greater campus community.
+It’s also true that there’s no one-size-fits-all model of survivor care. There must be options, which means that schools should make it clear up front who at the school must share what information with whom – and the circumstances in which a school may need to override a request for confidentiality and conduct an investigation to protect the greater school community.
 
-And in all cases, whether or not it fully investigates a particular incident, schools must respond. It must protect and help survivors reclaim their education, and determine what campus-wide, or more targeted, responses may be in order.
+And in all cases, whether or not it fully investigates a particular incident, schools must respond. Schools must protect and help survivors reclaim their education, and determine what school-wide, or more targeted, responses may be in order.
 
-To help schools carry out these principles, we’ve come up with a sample reporting and confidentiality policy.  This is not meant as a policy to “cut and paste,” but rather one to help schools get started tackling this difficult issue.
+To help schools carry out these principles, a sample reporting and confidentiality policy is provided. This is not meant as a policy to “cut and paste,” but rather one to help schools get started tackling this difficult issue. This resource uses higher-education specific language but its general principles also apply at the elementary and secondary school level.
 
 <div class="section-context-links">
 * [Read the sample reporting and confidentiality policy]({{ site.baseurl }}/assets/reporting-confidentiality-policy.pdf)
@@ -105,8 +97,9 @@ To help schools carry out these principles, we’ve come up with a sample report
 
 <div class="section-context">
 <div class="section-context-text">
-#### Protected Health Information
-The Office for Civil Rights in the Department of Health and Human Services has answered some frequently asked questions on how different Privacy rules apply at educational institutions, and under what circumstances and with whom protected health information can be shared.
+#### Federal Laws on Privacy Protections for Student Health Records
+
+Student health records at most schools are protected by a federal law called FERPA.  For health care students receive outside of the school setting, in most cases, a federal law called HIPAA protects the information.  
 
 <div class="section-context-links">
 * [Read the answers to the frequently asked questions](http://www.hhs.gov/ocr/privacy/hipaa/faq/ferpa_and_hipaa/)
@@ -118,38 +111,31 @@ The Office for Civil Rights in the Department of Health and Human Services has a
 
 ### Guide to Drafting a Sexual Assault Policy
 
-Every college and university should have an easily accessible, user-friendly sexual assault policy. As the Task Force recognizes, there is no one approach that suits every school – but as we also heard, schools have had difficulty constructing comprehensive policies.  To help schools develop or reevaluate their policies:
+Every school must have a policy that prohibits sex discrimination, including sexual harassment and sexual assault, and that policy should be easily accessible and user-friendly. As the Task Force recognizes, there is no one approach that suits every school – but we know that schools struggle to develop policies that are both clear and comprehensive.
 
-We are providing schools with a checklist for a sexual misconduct policy. This list provides both a suggested process for developing a policy, as well as the key elements a school should consider in drafting one.  At the threshold, and perhaps most importantly, schools should bring all the key stakeholders to the table – including students, survivors, concerned student groups including LGBT organizations, campus security, local law enforcement, resident advisors, on-campus advocates, and local victim service providers.  Effective policies will vary in scope and detail, but an inclusive process is common to all.
+To help schools develop or reevaluate their policies we are providing elementary and secondary schools and colleges and universities with checklists for creating a sexual misconduct policy. These lists provide both a suggested process for developing a policy, as well as the key elements schools should consider in drafting one. At the outset and perhaps most importantly, schools should bring all the key stakeholders to the table, which may include parents of elementary and secondary school students, survivors, counselors, Title IX coordinators, concerned students and student groups (e.g., LGBT organizations, students of color, athletes, English language learners, students with disabilities), campus or school security, local law enforcement, and local victim service providers. Effective policies will vary in scope and detail, but an inclusive process must be common to all.
 
-We have not endeavored with this checklist to provide schools with all the answers: again, depending on its size, mission, student body, location, administrative structure and experience, a school community is best situated to decide for itself what might work best.
+We have not endeavored with these checklists to provide schools with all the answers; again, depending on their size, mission, student body, location, administrative structure, and experience, school communities are best situated to decide for themselves what might work best.
 
 <div class="section-context-links">
 * [Read the sexual misconduct policy checklist]({{ site.baseurl }}/assets/checklist-for-campus-sexual-misconduct-policies.pdf)
+*	Read the elementary and secondary school sexual misconduct policy checklist (coming soon)
 </div>
 
 ### Role of Title IX Coordinator
 
-A school’s Title IX coordinator(s) is expected to play a critical role in helping a school ensure that every person affected by its operations—including faculty, staff, and students—are aware of their legal rights under Title IX, and that the school and all of its officials, through its policies, procedures, and practices, complies with its legal obligations under Title IX. This sample language can serve as a guide that highlights issues for schools to consider when assigning the Title IX coordinator functions and responsibilities related to their response to incidents of sexual misconduct.
+A school’s Title IX coordinator(s) is expected to play a critical role in helping a school ensure that every person affected by its operations—including faculty, staff, and students—are aware of their legal rights under Title IX, and that the school and all of its officials, through its policies, procedures, and practices, complies with its legal obligations under Title IX. This document provides sample language that can serve as a guide highlighting issues for schools to consider when assigning the Title IX coordinator functions and responsibilities related to their response to incidents of sexual misconduct. This resource uses higher-education specific language but its general principles also apply at the elementary and secondary school level.
 
 <div class="section-context-links">
 * [Read about the Role of a Title IX Coordinator]({{ site.baseurl }}/assets/role-of-title-ix-coordinator.pdf)
 </div>
 
-### Interim and supportive measures for victims
-
-Interim measures are the services, accommodations, or other assistance that colleges must provide to victims after notice of alleged sexual misconduct but before any final school outcomes – investigatory, disciplinary, or remedial – have been determined. This document provides assistance on how “interim measures” required by Title IX can be incorporated into a college’s sexual misconduct policy and offers sample policy language.  In addition, schools can offer supportive measures to victims who do not report the sexual violence, but are seeking assistance from through counselors and victim advocates. This sample language can help schools develop policies in both these areas.
-
-<div class="section-context-links">
-* [Learn About Interim and Supportive Measures for Victims]({{ site.baseurl }}/assets/interim-and-supportive-measures.pdf)
-</div>
-
 ### Definitions of key terms in sexual misconduct policies
 
-Under Title IX of the Education Amendments of 1972, any educational institution receiving Federal financial assistance must notify the school community of its nondiscrimination policy, and must adopt and publish grievance procedures providing for the prompt and equitable resolution of sex discrimination complaints.  This sample language will help schools ensure that students have a clear understanding of what constitutes sexual misconduct, when such conduct creates a hostile environment, the potential consequences for such conduct, and how the school processes complaints. 
+Under Title IX of the Education Amendments of 1972, any educational institution receiving federal financial assistance must notify the school community of its nondiscrimination policy, and must adopt and publish grievance procedures providing for the prompt and equitable resolution of sex discrimination complaints. This sample language will help schools ensure that students have a clear understanding of what constitutes sexual misconduct, when such conduct creates a hostile environment, the potential consequences for such conduct, and how the school processes complaints. This resource uses higher-education specific language but its general principles also apply at the elementary and secondary school level.
 
 <div class="section-context-links">
-* [Read the Definitions of Prohibited Conduct]({{ site.baseurl }}/assets/definitions-of-prohibited-conduct.pdf)
+* [Read the definitions of prohibited conduct]({{ site.baseurl }}/assets/definitions-of-prohibited-conduct.pdf)
 </div>
 
 <div class="section-context">
@@ -158,7 +144,7 @@ Under Title IX of the Education Amendments of 1972, any educational institution 
 
 #### Key Components of Sexual Assault Crisis Intervention/Victim Service Resources
 
-Most colleges and universities seek to provide services and advocacy for victims of sexual assault. These services may be provided on campus or off campus via a memorandum of understanding with a local rape crisis center or victim advocacy program. This document discusses the existing research on sexual assault crisis intervention and victim services. It is meant to be the start of a conversation for schools as they work to ensure accessible support services for victims on their campuses.
+Many schools provide services and advocacy for victims of sexual assault. These services may be provided on campus or off campus via a memorandum of understanding with a local rape crisis center or victim advocacy program. This document discusses the existing research on sexual assault crisis intervention and victim services. It is meant to be the start of a conversation for schools as they work to ensure accessible support services for victims on their campuses.
 
 <div class="section-context-links">
 * [Read the victim services document]({{ site.baseurl }}/assets/intervention-resources.pdf)
@@ -179,14 +165,22 @@ Colleges and universities can strengthen sexual assault prevention and response 
 <div class="section-context-text">
 ### Accessing Federal Resources for Your Campus and Community
 
-#### The Office on Violence Against Women
+#### The U.S. Department of Justice Office on Violence Against Women
 Campuses and communities interested in building or strengthening sexual assault programs should consider applying for a grant through the Department of Justice Office on Violence Against Women.
 
 <div class="section-context-links">
 * [Click for additional information](http://www.ovw.usdoj.gov/ovwgrantprograms.htm)
 </div>
 
-#### The Centers for Disease Control and Prevention
+#### The U.S. Department of Health and Human Services Office on Women's Health
+
+The Office on Women's Health (OWH) of the U.S. Department of Health and Human Services (HHS) works to stop violence against women and girls through model programs, policy development, and communications.  Some of its work focuses on examining how violence affects women, engaging men as partners in prevention of violence, and enhancing college and university curricula to include domestic violence and sexual assault issues.
+
+<div class="section-context-links">
+* [Click for additional information on the Office of Women's Health](http://www.womenshealth.gov/about-us/funding-opportunities/index.html)
+</div>
+
+#### The U.S. Department of Health and Human Services Centers for Disease Control and Prevention
 The Centers for Disease Control and Prevention’s Rape Prevention and Education program (RPE) strengthens sexual violence prevention efforts at the local, state, and national level.  RPE grantees are located in all 50 states, the District of Columbia, Puerto Rico, and six U.S. territories.  Eligible grantees are state and territorial health departments.
 
 <div class="section-context-links">
@@ -198,7 +192,9 @@ The Centers for Disease Control and Prevention’s Rape Prevention and Education
 ### Conducting School Climate Surveys
 
 #### Climate Surveys: Useful Tools to Help College or Universities in Their Efforts to Reduce and Prevent Sexual Assault
-Many schools are working to address sexual assault on their campuses, but lack a way to understand the scope or nature of the problem. Climate surveys can help fill this gap in knowledge by finding out how students perceive and experience sexual assault on their campus. Conducting regular climate surveys is a best practice in dealing with campus sexual assault. Universities and colleges often have both the capacity and the will to conduct meaningful climate surveys, but are not sure where to start. This document provides climate survey items/questions that are among the best currently available. The first chapter provides an overview of *how* to conduct a climate survey, and the second chapter provides an example of an empirically informed survey. Campuses are encouraged to use both of these chapters to guide their work.
+Many schools are working to address sexual assault on their campuses, but lack a way to understand the scope or nature of the problem. Climate surveys can help fill this gap in knowledge by finding out how students perceive and experience sexual assault on their campus. Conducting regular climate surveys is a best practice in dealing with campus sexual assault. Universities and colleges often have both the capacity and the will to conduct meaningful climate surveys, but are not sure where to start. This document provides climate survey items/questions that are among the best currently available. The first chapter provides an overview of *how* to conduct a climate survey, and the second chapter provides an example of an empirically informed survey. Campuses are encouraged to use both of these chapters to guide their work.
+
+Note: while this document is focused on postsecondary institutions, public school districts often conduct climate surveys to assess the learning environment in their schools. The principles in the document apply at the elementary and secondary school level, as well as the postsecondary level.
 
 <div class="section-context-links">
 * [Review the guide to conducting climate surveys]({{ site.baseurl }}/assets/ovw-climate-survey.pdf)
@@ -213,7 +209,7 @@ Many schools are working to address sexual assault on their campuses, but lack a
 <div class="section-context-text">
 
 #### Bystander-Focused Prevention of Sexual Violence
-Bystander intervention is a sexual assault prevention strategy that encourages witnesses to take safe action when they see a situation that might lead to sexual assault, and to support victims after an incident. Bystander intervention shows promise as a strategy to prevent sexual assault, particularly in college/university settings. The Centers for Disease Control and Prevention found that bystander strategies may hold promise for the prevention of sexual assault, but more evaluation is needed. This document describes many different bystander programs used around the country and their common components. It also discusses how to deliver bystander education, and challenges to bystander action.
+Bystander intervention is a sexual assault prevention strategy that encourages witnesses to take safe action when they see a situation that might lead to sexual assault, and to support victims after an incident. Bystander intervention shows promise as a strategy to prevent sexual assault, including in schools. The Centers for Disease Control and Prevention found that bystander strategies may hold promise for the prevention of sexual assault, but more evaluation is needed. This document describes many different bystander programs used around the country and their common components. It also discusses how to deliver bystander education, and challenges to bystander action.
 
 <div class="section-context-links">
 * [Read the bystander intervention document]({{ site.baseurl }}/assets/bystander-summary.pdf)
@@ -240,7 +236,7 @@ This document created by the Centers for Disease Control and Prevention describe
 <div class="section-context-text">
 
 #### Establishing Prevention Programming: Strategic Planning for Campuses
-Preventing sexual assault in a college setting requires a thoughtful, well-planned approach. Campuses have many factors to consider when deciding what types of programming to offer and how to determine if their efforts are effective. Researchers are still studying the most effective forms of prevention. This document outlines key points to consider in strategic planning for campus sexual violence prevention. This process will look different for each campus, but this document provides preliminary guidelines and questions to get the process started.
+Preventing sexual assault in a school setting requires a thoughtful, well-planned approach. Schools have many factors to consider when deciding what types of programming to offer and how to determine if their efforts are effective. Researchers are still studying the most effective forms of prevention. This document outlines key points to consider in strategic planning for school sexual violence prevention. This process will look different for each school, but this document provides preliminary guidelines and questions to get the process started. This resource uses higher-education specific language but its general principles also apply at the elementary and secondary school level.
 
 <div class="section-context-links">
 * [Read the strategic planning for campuses document]({{ site.baseurl }}/assets/prevention-overview.pdf)
@@ -249,7 +245,7 @@ Preventing sexual assault in a college setting requires a thoughtful, well-plann
 
 <div class="section-context-text">
 #### Sexual Violence Prevention Strategies: An Overview
-Prevention efforts should ultimately decrease the number of individuals who perpetrate sexual violence and the number of individuals who are sexual violence victims. Many prevention approaches aim to reduce risk factors and promote protective factors for sexual violence. In addition, comprehensive prevention strategies should address factors at each of the levels that influence sexual violence -the individual, relationship, community, and society.
+Prevention efforts should ultimately decrease the number of individuals who perpetrate sexual violence and the number of individuals who are sexual violence victims. Many prevention approaches aim to reduce risk factors and promote protective factors for sexual violence. In addition, comprehensive prevention strategies should address factors at each of the levels that influence sexual violence - the individual, relationship, community, and society.
 
 <div class="section-context-links">
 * [Read Sexual Violence Prevention Strategies: An Overview](http://www.cdc.gov/violenceprevention/sexualviolence/prevention.html)
@@ -259,18 +255,8 @@ Prevention efforts should ultimately decrease the number of individuals who perp
 
 <div class="section-context">
 <div class="section-context-text">
-#### American College Health Association Sexual Violence Toolkit
-The American College Health Association developed the Shifting the Paradigm: Primary Prevention of Sexual Violence toolkit to provide facts, ideas, strategies, conversation starters, and resources to everyone on campus who cares about the prevention of sexual violence. While there is a rich volume of tools, knowledge, and resources for intervention after sexual violence, the emphasis of this toolkit is to encourage prevention activities that take place before sexual violence has occurred and which create social change and shift the norms regarding sexual violence.
-
-<div class="section-context-links">
-* [Review the American College Health Association Sexual Violence Toolkit](http://www.acha.org/sexualviolence/docs/ACHA_PSV_toolkit.pdf)
-</div>
-</div>
-
-<div class="section-context">
-<div class="section-context-text">
 #### Rape Prevention and Education (RPE) Program
-The goal of the RPE program is to strengthen sexual violence prevention efforts. Program activities are guided by a set of prevention principles that include: preventing first-time perpetration and victimization; reducing modifiable risk factors while enhancing protective factors; incorporating behavior and social change theories into prevention programs; using population-based surveillance to inform program decisions and monitor trends; and evaluating prevention efforts.
+The goal of CDC’s RPE program is to strengthen sexual violence prevention efforts. Program activities are guided by a set of prevention principles that include: preventing first-time perpetration and victimization; reducing modifiable risk factors while enhancing protective factors; incorporating behavior and social change theories into prevention programs; using population-based surveillance to inform program decisions and monitor trends; and evaluating prevention efforts.
 
 <div class="section-context-links">
 * [Review the Rape Prevention and Education (RPE) Program](http://www.cdc.gov/violenceprevention/rpe/index.html)
@@ -287,15 +273,6 @@ Program evaluation is a type of research. In some cases, external researchers or
 * [Review the collection of program evaluation strategies](http://www.nsvrc.org/xchange-forum/program-evaluation)
 </div>
 </div>
-
-<div class="section-context-text">
-#### Peer Educators: The Frontline in Campus Violence Prevention
-Information about the roles and responsibilities of peer education in violence prevention and offers guidance on establishing a peer education program. Also included here are special considerations for peer educators at Historically Black Colleges and Universities (HBCUs).
-
-<div class="section-context-links">
-* [Review the Peer Educators: The Frontline in Campus Violence Prevention document](http://www.vawnet.org/sexual-violence/summary.php?doc_id=3626&find_type=web_desc_TT)
-</div>
-</div>
 </div>
 
 <div class="section-context">
@@ -307,9 +284,58 @@ A campus-wide approach to sexual violence and explore topics such as evaluating 
 * [Review the Assessing Campus Readiness Manual](http://www.pcar.org/sites/default/files/file/CampusWholeBook_Web.pdf)
 </div>
 </div>
+</div>
+</div>
+
+## Legal Guidance, Policy Guidance, and Resources for Institutions of Higher Education
+<div class="section-context">
+### Understanding FERPA, the Clery Act, and Title IX
+
+Colleges and universities that participate in the federal student financial aid programs are subject to Title IX and the Clery Act, and must comply with the laws’ requirements that certain employees report incidents of sexual violence to school officials and notify students about the outcome when they file complaints of sexual violence.
+
+We created a chart to help colleges and universities understand these requirements, clarify how they intersect with students’ rights under the Family Educational Rights and Privacy Act (FERPA), and resolve any concerns about apparent conflicts.
+
+Note that although elementary and secondary schools that receive federal funding must comply with Title IX and FERPA, they do not fall under the jurisdiction of the Clery Act.
+
+<div class="section-context-links">
+* [Review the FERPA/Clery/Title IX Chart]({{ site.baseurl }}/assets/ferpa-clerychart.pdf)
+</div>
+</div>
+
+<div class="section-context">
+### Interim and supportive measures for victims
+Interim measures are the services, accommodations, or other assistance that colleges must provide to victims after notice of alleged sexual misconduct but before any final school outcomes – investigatory, disciplinary, or remedial – have been determined. This document provides assistance on how “interim measures” required by Title IX can be incorporated into a college’s sexual misconduct policy and offers sample policy language.  In addition, schools can offer supportive measures to victims who do not report the sexual violence, but are seeking assistance from through counselors and victim advocates. This sample language can help schools develop policies in both these areas.
+
+<div class="section-context-links">
+* [Learn About Interim and Supportive Measures for Victims]({{ site.baseurl }}/assets/interim-and-supportive-measures.pdf)
+</div>
+</div>
+
+<div class="section-context">
+#### American College Health Association Sexual Violence Toolkit
+The American College Health Association developed the Shifting the Paradigm: Primary Prevention of Sexual Violence toolkit to provide facts, ideas, strategies, conversation starters, and resources to everyone on campus who cares about the prevention of sexual violence. While there is a rich volume of tools, knowledge, and resources for intervention after sexual violence, the emphasis of this toolkit is to encourage prevention activities that take place before sexual violence has occurred and which create social change and shift the norms regarding sexual violence.
+
+<div class="section-context-links">
+* [Review the American College Health Association Sexual Violence Toolkit](http://www.acha.org/sexualviolence/docs/ACHA_PSV_toolkit.pdf)
+</div>
+</div>
+
+<div class="section-context">
+#### Peer Educators: The Frontline in Campus Violence Prevention
+Information about the roles and responsibilities of peer education in violence prevention and offers guidance on establishing a peer education program. Also included here are special considerations for peer educators at Historically Black Colleges and Universities (HBCUs).
+
+<div class="section-context-links">
+* [Review the Peer Educators: The Frontline in Campus Violence Prevention document](http://www.vawnet.org/sexual-violence/summary.php?doc_id=3626&find_type=web_desc_TT)
+</div>
+</div>
+
+<div class="section-context">
+### Preventing Sexual Violence on College Campuses: Lessons from Research and Practice
+
+This document created by the Centers for Disease Control and Prevention describes the best practices in developing, selecting, and implementing prevention strategies with the highest chance of successfully changing sexual violence in communities. While we have a lot to learn about how best to stop campus sexual violence before it starts, there are important steps that college campuses can take now to better address sexual violence.
 
 
-
-
-
-
+<div class="section-context-links">
+* [Read the CDC report on best practices for sexual violence prevention]({{ site.baseurl }}/assets/preventing-sexual-violence-on-college-campuses-lessons-from-research-and-practice.pdf)
+</div>
+</div>
