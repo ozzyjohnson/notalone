@@ -3,8 +3,7 @@ description: This contains a nice description of the site.
 logo: logo.png
 
 markdown: kramdown
-pygments: true
-
+highlighter: null
 # always points to production site
 canonical: https://www.notalone.gov
 
