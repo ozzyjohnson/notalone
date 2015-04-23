@@ -13,7 +13,7 @@ Locate services and resources in your area to receive support if you are in a cr
 
 {% include service-locator.html %}
 
-State sexual assault coalitions are valuable resources to find services in your area.  These coalitions provide lists of all the local rape crisis centers and often run statewide hotlines.  Local crisis centers and service providers also frequently have hotlines.  Some of these programs may not be included in the Service Locator Map, and your state coalition may be able to provide you with additional information.  
+State sexual assault coalitions are valuable resources to find services in your area.  These coalitions provide lists of all the local rape crisis centers and often run statewide hotlines.  Local crisis centers and service providers also frequently have hotlines.  Some of these programs may not be included in the Service Locator Map, and your [state coalition](http://www.justice.gov/ovw/local-resources) may be able to provide you with additional information.  
 
 ## Organizations and Services
 

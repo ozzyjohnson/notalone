@@ -285,7 +285,6 @@ A campus-wide approach to sexual violence and explore topics such as evaluating 
 </div>
 </div>
 </div>
-</div>
 
 ## Legal Guidance, Policy Guidance, and Resources for Institutions of Higher Education
 <div class="section-context">
