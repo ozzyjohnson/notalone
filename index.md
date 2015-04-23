@@ -20,11 +20,7 @@ Protect Students from Sexual Assault. The Task Force was established on
 January 22, 2014 – and since then, thousands of people have shared their
 stories and ideas about how best to eliminate sexual assault in schools.
 
-On April 29, 2014, the White House Task Force released its first report. A
-year later, on April 29, 2015, the Task Force issued a progress [repor,
-which includes information on sexual assault in elementary and secondary
-schools and what the federal government is doing to ensure that schools
-prevent and respond to sexual assault.](#progress-report)
+On April 29, 2014, the White House Task Force released its first report.
 
 {::nomarkdown}
 <a class="btn action" href="#find-box">Explore</a>

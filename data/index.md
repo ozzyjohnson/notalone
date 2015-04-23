@@ -7,7 +7,7 @@ permalink: /data/
 
 ## School-by-School Enforcement Map
 
-This map includes information about resolved school-level enforcement activities conducted by the U.S. Departments of Education and Justice. These activities include Title IX resolution agreements addressing sexual violence on campuses from the Department of Education’s Office for Civil Rights, Clery Act reports from the Department of Education’s Federal Student Aid office, and Title IX and Title IV resolution agreements and other court filings addressing sexual violence and sexual harassment on campuses from the Department of Justice’s Civil Rights Division.
+This map includes information about resolved school-level enforcement activities conducted by the U.S. Departments of Education and Justice. These activities include Title IX resolution agreements addressing sexual violence on campuses from the Department of Education’s Office for Civil Rights, Clery Act reports from the Department of Education’s Federal Student Aid office, and Title IX and Title IV resolution agreements and other court filings addressing sexual violence and sexual harassment on campuses from the Department of Justice’s Civil Rights Division. For an explanation of the Clery Act and Titles IX and IV, please see [the Key Terms and Definitions section of the Students page.](/students/#key-terms-and-definitions)
 
 <!--[if lte IE 8]>
   <style>
@@ -30,5 +30,3 @@ Data.gov contains thousands of agency data sets, tools, and research to conduct 
 <div class="section-context-links">
 * [View data sets related to sexual assault on Data.gov](http://catalog.data.gov/dataset?q=sexual+assault&sort=score+desc%2C+name+asc)
 </div>
-
-
