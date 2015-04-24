@@ -22,6 +22,9 @@ Many other websites provide information about campus sexual assault – what it 
 ### Advocacy/Survivor Services Organizations
 {% include resources-additional.html role="additional" type="survivor-services" %}
 
+### K-12 Resources
+{% include resources-additional.html role="k-12" type="public-awareness-education"%}
+
 ### Student Groups
 {% include resources-additional.html role="additional" type="student-groups" %}
 
@@ -31,19 +34,24 @@ Many survivors identify as lesbian, gay, bisexual, or transgender (LGBT). Unfort
 {% include resources.html role="lgbtq" %}
 
 ### Disability Resources
-People with physical or mental disabilities may also be at increased risk for sexual assault. A study reported that individuals with a disability were three times more likely to be raped or sexually assaulted than individuals without a disability. [iv](#iv){: .cite} Unfortunately, many disabled individuals experience barriers when attempting to access services and resources. The below resources provide accessible services for disabled students and allies:
+People with physical or mental disabilities may also be at increased risk for sexual assault. A study reported that individuals with a disability were three times more likely to be raped or sexually assaulted than individuals without a disability. [iv](#iv){: .cite} Unfortunately, many people with disabilities experience barriers when attempting to access services and resources. The below resources provide accessible services for students with disabilities and allies:
 
 {% include resources.html role="disability" %}
 
+### Male Survivor Resources
+Approximately 1 in 10 sexual assault survivors is male, but these cases go unreported even more often than usual. Male survivors may stay silent out of fear, shame, or self-blame, but sexual assault affects every survivor regardless of gender identity. The below resources provide resources designed to address the needs of male survivors.
+
+{% include resources.html role="male-survivors" %}
+
 ### Immigrant and International Resources
-While numbers are difficult to estimate, immigrants and international students face unique difficulties. Perpetrators may threaten to have their victims deported if they try to seek help, making immigrant survivors less likely to report these crimes. Immigrant and international student survivors may also be unaware or confused by the services that are available, particularly if service providers lack linguistically or culturally appropriate resources. The below resources provide linguistically and culturally appropriate resources for international and immigrant survivors:
+While numbers are difficult to estimate, immigrants and international students face unique difficulties. Perpetrators may threaten to have their victims deported if they try to seek help, making immigrant survivors less likely to report these crimes. Immigrant and international student survivors may also be unaware or confused by the services that are available, particularly if service providers lack linguistically or culturally appropriate resources. The below resources provide resources for international and immigrant survivors.
 
 {% include resources.html role="undocumented-international" %}
 
 ### Health Resources
 [http://locator.aids.gov](http://locator.aids.gov)
 
-Find publicly supported health services including health centers, mental health providers, family planning centers and substance abuse treatment providers.
+Find publicly supported health services including health centers, mental health providers, family planning centers, and substance abuse treatment providers.
 
 *	[Community health centers](http://findahealthcenter.hrsa.gov/)
 *	[Family planning providers](http://www.hhs.gov/opa/)
@@ -66,7 +74,10 @@ Health Cares about IPV is a federally funded program that provides training and 
 ### Office on Violence Against Women (OVW) Campus Program Technical Assistance Providers
 {% include resources-additional.html role="additional" type="ovw-assistance-provider" %}
 
+### Sex Offender Treatment Programs
+Below is a short list of organizations, known to offer credible information about children and/or adolescents who have sexually abused.
 
+{% include resources-additional.html role="additional" type="offender-treatment"%}
 
 #### Citations
 <div class="cite" id="i">

@@ -1,3 +1,42 @@
+###
+# Resources
+#
+# Information about resources available to victims or communities
+# Data should be in the following format:
+#
+# - name: "Full name of the organization"
+#   type:
+#      - choose at least one of the types listed below
+#   url:
+#   tel:
+#   chat:
+#   description:
+#   role:
+#     - choose from at least one of the roles listed below
+#
+# Refer to resource/index.md to discern which type or role new
+# resources should have based on the lists below
+#
+# List of types:
+# - hotline
+# - organization
+# - prevention-programs
+# - public-awareness-education
+# - student-groups
+# - survivor-services
+# - ovw-assistance-provider
+# - offender-treatment
+#
+# List of roles:
+# - footer
+# - homepage
+# - lgbtq
+# - disability
+# - undocumented-international
+# - additional (use this if unsure)
+# - male-survivors
+###
+
 - name: "National Sexual Assault Hotline"
   type:
     - hotline
@@ -73,7 +112,7 @@
   url: "http://www.cdc.gov/lgbthealth/"
   type:
     - organization
-  description: "Information and resources tailored to perspectives and needs of the LGBTQ population who are at increased risk for a number of health threats when compared to their heterosexual peers. Differences in sexual behavior account for some of these disparities, but others are associated with social and structural inequities, such as the stigma and discrimination. This resource is produced by the Centers for Disease Control and Prevention (CDC)."
+  description: "This resource offers information and resources tailored to perspectives and needs of the LGBTQ population who are at increased risk for a number of health threats when compared to their heterosexual peers. Differences in sexual behavior account for some of these disparities, but others are associated with social and structural inequities, such as the stigma and discrimination. This resource is produced by the Centers for Disease Control and Prevention (CDC)."
   role:
     - lgbtq
 
@@ -81,7 +120,7 @@
   url: "http://www.hrsa.gov/lgbt/"
   type:
     - organization
-  description: "Information from the Health Resources and Services Administration on the National LGBT Health Education Center health disparities, and links to additional resources. "
+  description: "The Health Resources and Services Administration  provides information from the Health Resources and Services Administration on the National LGBT Health Education Center health disparities, and links to additional resources. "
   role:
     - lgbtq
 
@@ -89,7 +128,7 @@
   url: "http://www.samhsa.gov/lgbt/consumers.aspx"
   type:
     - organization
-  description: "Information from the Health Resources and Services Administration on the National LGBT Health Education Center health disparities, and links to additional resources. "
+  description: "This kit includes information from the Health Resources and Services Administration on the National LGBT Health Education Center health disparities, and links to additional resources. "
   role:
     - lgbtq
 
@@ -113,16 +152,17 @@
   url: "http://www.disability.gov"
   type:
     - organization
-  description: "Connects people with disabilities, their families and caregivers to helpful resources on topics such as how to apply for disability benefits, find a job, get health care or pay for accessible housing."
+  description: "This resource connects people with disabilities, their families and caregivers to helpful resources on such topics as how to apply for disability benefits, find a job, get health care, or pay for accessible housing."
   role:
     - disability
 
-- name: "Screening and Counseling on Violence for Women with Disabilities"
+- name: "Violence against Women with Disabilities"
   url: "http://www.womenshealth.gov/violence-against-women/types-of-violence/violence-against-women-with-disabilities.html"
   type:
     - organization
   role:
     - disability
+  description: "The Office on Women’s Health of the U.S. Department of Health and Human Services provides publications, websites, and organizations especially designed to address the unique challenges that women with disabilities face."
 
 - name: "Community Health Centers"
   url: "http://findahealthcenter.hrsa.gov"
@@ -130,12 +170,13 @@
     - organization
   role:
     - undocumented-international
+  description: "The Health Resources and Services Administration operates health centers in most cities and rural areas, and offers well-checks, treatment, pre-natal care, immunization, dental care, prescriptions, and mental health and substance abuse care. These health centers do not require patients to have health insurance and charge patients what they can afford based on income."
 
 - name: "Casa de Esperanza"
   url: "http://www.casadeesperanza.org"
   type:
     - organization
-  description: "A national resource center on domestic violence in the Latin community, with a mission to mobilize Latinas and Latino communities to end domestic violence. Their work includes community building, as well as direct advocacy and resources for victims of domestic violence in Latin@ communities."
+  description: "Casa de Esperanza is a national resource center on domestic violence in the Latina community, with a mission to mobilize Latinas and Latino communities to end domestic violence. Their work includes community building, as well as direct advocacy and resources for victims of domestic violence in Latina communities."
   role:
     - undocumented-international
 
@@ -143,7 +184,7 @@
   url: "http://www.apiidv.org"
   type:
     - organization
-  description: "The Asian & Pacific Islander Institute on Domestic Violence is a national resource center on domestic violence, sexual violence, trafficking, and other forms of gender-based violence in Asian and Pacific Islander communities. "
+  description: "The Asian & Pacific Islander Institute on Domestic Violence is a national resource center on domestic violence, sexual violence, trafficking, and other forms of gender-based violence in Asian and Pacific Islander communities."
   role:
     - undocumented-international
 
@@ -151,7 +192,7 @@
   type:
     - prevention-programs
   url: "http://www.agentofchange.net"
-  description: "Interactive, online violence prevention training tool."
+  description: "Agent of Change is an interactive, online violence prevention training tool."
   role:
     - additional
 
@@ -159,7 +200,7 @@
   type:
     - prevention-programs
   url: "http://www.cola.unh.edu/prevention-innovations/bystander"
-  description: "Bystander intervention prevention program. "
+  description: "This prevention program focuses on bystander intervention."
   role:
     - additional
 
@@ -167,7 +208,7 @@
   type:
     - prevention-programs
   url: "http://www.every-choice.com"
-  description: "Online, video-based bystander intervention training."
+  description: "This online resource offers video-based bystander intervention training."
   role:
     - additional
 
@@ -183,7 +224,7 @@
   type:
     - prevention-programs
   url: "http://www.preventconnect.org"
-  description: "A national online project dedicated to the primary prevention of sexual assault and domestic violence."
+  description: "This national online project is dedicated to the primary prevention of sexual assault and domestic violence."
   role:
     - additional
 
@@ -191,31 +232,35 @@
   type:
     - prevention-programs
   url: "http://www.theredflagcampaign.org"
-  description: "Public awareness campaign designed to address dating violence and promote the prevention of dating violence on college campuses. "
+  description: "The Red Flag Campaign is a public awareness campaign designed to address dating violence and promote the prevention of dating violence on college campuses."
   role:
     - additional
 
 - name: "Safe Dates"
   type:
     - prevention-programs
+    - public-awareness-education
   url: "http://www.nrepp.samhsa.gov/ViewIntervention.aspx?id=141"
-  description: "Program designed to prevent the initiation of emotional, physical and sexual abuse on dates or between individuals in a dating relationship; Designed for use by 8th and 9th grade students."
+  description: "This program is designed to prevent the initiation of emotional, physical, and sexual abuse on dates or between individuals in a dating relationship; Designed for use by 8th and 9th grade students."
   role:
     - additional
+    - k-12
 
 - name: "Shifting Boundaries"
   type:
     - prevention-programs
+    - public-awareness-education
   url: "http://www.crimesolutions.gov/ProgramDetails.aspx?ID=226"
-  description: "A classroom and school wide intervention designed to reduce dating violence and sexual harassment among middle school students. "
+  description: "Shifting Boundaries is a classroom and school wide intervention designed to reduce dating violence and sexual harassment among middle school students."
   role:
-    - additional
+    - lgbtq
+    - k-12
 
 - name: "Student Success’s Sexual Assault Prevention program"
   type:
     - prevention-programs
   url: "http://public.studentsuccess.org/web/programs/sexual-assault-prevention"
-  description: "Online sexual assault prevention training for college students. "
+  description: "This program offers online sexual assault prevention training for college students."
   role:
     - additional
 
@@ -223,7 +268,7 @@
   type:
     - public-awareness-education
   url: "http://www.whitehouse.gov/1is2many/"
-  description: "Vice President Biden's initiative to change attitudes that lead to violence and educate the public on the realities of abuse."
+  description: "1 is 2 Many is Vice President Biden's initiative to change attitudes that lead to violence and educate the public on the realities of abuse."
   role:
     - additional
 
@@ -234,12 +279,13 @@
   description: "Resources for male survivors who have been sexually abused during childhood."
   role:
     - additional
+    - male-survivors
 
 - name: "AEquitas"
   type:
     - public-awareness-education
   url: "http://www.aequitasresource.org"
-  description: "A resource for prosecutors to improve the quality of justice in sexual violence, intimate partner violence, stalking and human trafficking cases."
+  description: "AEquitas is a resource for prosecutors to improve the quality of justice in sexual violence, intimate partner violence, stalking, and human trafficking cases."
   role:
     - additional
 
@@ -247,7 +293,7 @@
   type:
     - public-awareness-education
   url: "http://www.breakthecycle.org"
-  description: "Resources related to dating violence"
+  description: "Break the Cycle works to end dating violence"
   role:
     - additional
 
@@ -263,7 +309,7 @@
   type:
     - public-awareness-education
   url: "http://www.publicintegrity.org/accountability/education/sexual-assault-campus"
-  description: "A year-long investigation into the handling of sexual assault reports by college campuses."
+  description: "This project is a yearlong investigation into the handling of sexual assault reports by college campuses."
   role:
     - additional
 
@@ -287,7 +333,7 @@
   type:
     - public-awareness-education
   url: "http://whereisyourline.org"
-  description: "A nonprofit organization and movement committed to empowering young leaders to create a world without sexual violence."
+  description: "The Line Campaign is a nonprofit organization and movement committed to empowering young leaders to create a world without sexual violence."
   role:
     - additional
 
@@ -301,7 +347,7 @@
   type:
     - public-awareness-education
   url: "http://www.nsvrc.org/saam/campus-resource-list"
-  description: "Resources for administrators, student activists, and law enforcement, on such topics as primary prevention on campus, crime statistics, and training tools."
+  description: "This list includes resources for administrators, student activists, and law enforcement, on such topics as primary prevention on campus, crime statistics, and training tools."
   role:
     - additional
 
@@ -309,7 +355,7 @@
   type:
     - public-awareness-education
   url: "http://nomore.org"
-  description: "Public awareness campaign to end domestic violence and sexual assault."
+  description: "No More is a public awareness campaign to end domestic violence and sexual assault."
   role:
     - additional
 
@@ -317,7 +363,7 @@
   type:
     - public-awareness-education
   url: "http://www.resourcesharingproject.org"
-  description: "Provides technical assistance, support, and the dissemination of peer-driven resources for all state and territorial sexual assault coalitions."
+  description: "RSP provides technical assistance, support, and the dissemination of peer-driven resources for all state and territorial sexual assault coalitions."
   role:
     - additional
 
@@ -325,7 +371,7 @@
   type:
     - public-awareness-education
   url: "http://mncasa.org/svji"
-  description: "A national resource for expertise in the criminal justice response to sexual violence."
+  description: "This institute is a national resource for expertise in the criminal justice response to sexual violence."
   role:
     - additional
 
@@ -333,7 +379,7 @@
   type:
     - public-awareness-education
   url: "http://www.thatsnotcool.com"
-  description: "Tools for addressing dating violence through social media."
+  description: "That’s Not Cool provides tools for addressing dating violence through social media."
   role:
     - additional
 
@@ -341,7 +387,7 @@
   type:
     - public-awareness-education
   url: "http://www.vawnet.org/sexual-violence"
-  description: "Information about intervention, prevention, perpetration, education and awareness, advocacy, program development, and population specific approaches to sexual assault."
+  description: "This website is a source for information about intervention, prevention, perpetration, education and awareness, advocacy, program development, and population-specific approaches to sexual assault."
   role:
     - additional
 
@@ -349,7 +395,7 @@
   type:
     - public-awareness-education
   url: "http://www.walkamileinhershoes.org"
-  description: "The international men’s march to stop rape, sexual assault, and gender violence."
+  description: "This international men’s march is a campaign to stop rape, sexual assault, and gender violence."
   role:
     - additional
 
@@ -357,7 +403,7 @@
   type:
     - student-groups
   url: "http://knowyourix.org"
-  description: "A campaign that aims to educate all college students in the U.S. about their rights under Title IX."
+  description: "Know Your IX is a campaign that aims to educate all college students in the U.S. about their rights under Title IX."
   role:
     - additional
 
@@ -365,7 +411,7 @@
   type:
     - student-groups
   url: "http://safercampus.org"
-  description: "Organization dedicated to empowering students to hold their universities accountable for having strong campus sexual assault policies and programming. "
+  description: "SAFER is an organization dedicated to empowering students to hold their universities accountable for having strong campus sexual assault policies and programming."
   role:
     - additional
 
@@ -373,7 +419,7 @@
   type:
     - survivor-services
   url: "http://www.aauw.org"
-  description: "Advocacy and empowerment organization for women and girls.  "
+  description: "The AAUW is an advocacy and empowerment organization for women and girls."
   role:
     - additional
 
@@ -389,7 +435,7 @@
   type:
     - survivor-services
   url: "http://www.blackwomensblueprint.org"
-  description: "Civil and human rights organization aimed to secure social, political and economic equality in American society; The Black Women’s Truth and Reconciliation Commission (BWTRC) on sexual violence.  "
+  description: "Through their Black Women’s Truth and Reconciliation Commission (BWTRC), the Black Women’s Blueprint Project aims to secure political and economic equality in American society.  "
   role:
     - additional
 
@@ -397,7 +443,7 @@
   type:
     - survivor-services
   url: "http://www.securityoncampus.org"
-  description: "A nonprofit organization dedicated to preventing violence, substance abuse, and other crimes on college and university campuses, and to assist the victims of these crimes. "
+  description: "The Clery Center educates and trains campus stakeholders about safety, prevention, peer intervention and Clery Act compliance. Clery Act compliance requires an understanding of counting and collecting crime statistics, emergency notification and timely warning policy, generation of an annual security report, and adherence to the campus sexual assault victim bill of rights."
   role:
     - additional
 
@@ -405,7 +451,7 @@
   type:
     - survivor-services
   url: "http://www.futureswithoutviolence.org/content/features/detail/1728/"
-  description: "Resources for campuses to promote healthy relationships and to better help those affected by violence."
+  description: "Futures Without Violence provides resources for campuses to promote healthy relationships and to better help those affected by violence."
   role:
     - additional
 
@@ -413,7 +459,7 @@
   type:
     - survivor-services
   url: "http://www.dvinstitute.org"
-  description: "An organization focused on African Americans as they face issues related to domestic violence and intimate partner violence including dating violence, child abuse, elder maltreatment, and community violence."
+  description: "The Institute on Domestic Violence in the African American Community focuses on African Americans as they face issues related to domestic violence and intimate partner violence, including dating violence, child abuse, elder maltreatment, and community violence."
   role:
     - additional
 
@@ -421,7 +467,7 @@
   type:
     - survivor-services
   url: "http://www.joyfulheartfoundation.org"
-  description: "National organization dedicated to healing, educating and empowering survivors of sexual assault, domestic violence and child abuse.  "
+  description: "Joyful Heart Foundation is a national organization dedicated to healing, educating, and empowering survivors of sexual assault, domestic violence, and child abuse."
   role:
     - additional
 
@@ -429,7 +475,7 @@
   type:
     - survivor-services
   url: "http://www.mencanstoprape.org"
-  description: "Organization aimed at mobilizing men to create cultures free from violence. "
+  description: "Men Can Stop Rape offers individualized training and technical assistance to grantees on engaging men in the prevention of gender based violence. Trainings can include, but are not limited to: Coordinated Community Response team trainings on effective approaches to engaging men in prevention activities, training, and community awareness; workshops for campus students on raising awareness about rape as a men's issue; and general information to OVW Campus Program grantees."
   role:
     - additional
 
@@ -437,7 +483,7 @@
   type:
     - survivor-services
   url: "http://www.endsexualviolence.org"
-  description: "National advocacy organization representing state coalitions and local programs organizing against sexual violence and for survivors.  "
+  description: "This alliance is a national advocacy organization representing state coalitions and local programs organizing against sexual violence and for survivors."
   role:
     - additional
 
@@ -445,7 +491,7 @@
   type:
     - survivor-services
   url: "http://www.ncdsv.org"
-  description: "Designs, provides, and customizes training and consultation, influences policy, promotes collaboration and enhances diversity with the goal of ending domestic and sexual violence.  "
+  description: "This center designs, provides, and customizes training and consultation, influences policy, promotes collaboration and enhances diversity with the goal of ending domestic and sexual violence."
   role:
     - additional
 
@@ -453,7 +499,7 @@
   type:
     - survivor-services
   url: "http://www.victimsofcrime.org/"
-  description: "A nonprofit organization that advocates for victims’ rights, trains professionals who work with victims, and serves as a source of information on victims’ issues"
+  description: "This center advocates for victims’ rights, trains professionals who work with victims, and serves as a source of information on victims’ issues."
   role:
     - additional
 
@@ -461,7 +507,7 @@
   type:
     - survivor-services
   url: "http://www.napiesv.org"
-  description: "National advocacy organization which provides technical assistance to culturally and linguistically specific organizations that are currently serving or attempting to serve victims of sexual assault in Asian and Pacific Islander communities. "
+  description: "This national advocacy organization provides technical assistance to culturally and linguistically specific organizations that are currently serving or attempting to serve victims of sexual assault in Asian and Pacific Islander communities."
   role:
     - additional
 
@@ -469,7 +515,7 @@
   type:
     - survivor-services
   url: "http://sisterslead.org"
-  description: "National advocacy organization supporting and advocating for women of color and organizations by and for communities of color. "
+  description: "This national advocacy organization supports and advocates for women of color and organizations by and for communities of color."
   role:
     - additional
 
@@ -477,7 +523,7 @@
   type:
     - survivor-services
   url: "http://nnedv.org"
-  description: "A national social change organization dedicated to creating a social, political and economic environment in which violence against women no longer exists."
+  description: "This national social change organization is dedicated to creating a social, political and economic environment in which violence against women no longer exists."
   role:
     - additional
 
@@ -485,7 +531,7 @@
   type:
     - survivor-services
   url: "http://www.nsvrc.org"
-  description: "A national information and resource hub relating to all aspects of sexual violence."
+  description: "This center is a national information and resource hub relating to all aspects of sexual violence."
   role:
     - additional
 
@@ -493,7 +539,7 @@
   type:
     - survivor-services
   url: "http://www.nomeansno.org"
-  description: "A nonprofit organization strengthening sexual assault prevention efforts on college campuses. "
+  description: "Culture of Respect is a nonprofit organization strengthening sexual assault prevention efforts on college campuses."
   role:
     - additional
 
@@ -504,13 +550,13 @@
   description: "An organization providing critical resources to male survivors of sexual trauma and all their partners in recovery by building communities of Hope, Healing, & Support."
   role:
     - additional
-
+    - male-survivors
 
 - name: "OK2TALK"
   type:
     - survivor-services
   url: "http://www.ok2talk.org"
-  description: "Encourages teens and young adults struggling with mental health problems to talk about what they’re experiencing by sharing their personal stories of recovery, tragedy, struggle or hope."
+  description: "OK2TALK encourages teens and young adults struggling with mental health problems to talk about what they’re experiencing by sharing their personal stories of recovery, tragedy, struggle or hope."
   role:
     - additional
 
@@ -518,7 +564,7 @@
   type:
     - survivor-services
   url: "http://www.rainn.org"
-  description: "National advocacy organization that operates the National Sexual Assault Hotline.  "
+  description: "RAINN is a national advocacy organization that operates the National Sexual Assault Hotline."
   role:
     - additional
 
@@ -526,7 +572,7 @@
   type:
     - survivor-services
   url: "http://www.safersociety.org"
-  description: "Organization dedicated to ending sexual abuse by promoting effective prevention and best-practice treatment for sexual abusers and their victims.  "
+  description: "The Safer Society Foundation is dedicated to ending sexual abuse by promoting effective prevention and best-practice treatment for sexual abusers and their victims."
   role:
     - additional
 
@@ -534,7 +580,7 @@
   type:
     - survivor-services
   url: "http://www.victimsofcrime.org/our-programs/stalking-resource-center"
-  description: "Information about stalking and resources for victims."
+  description: "This center provides information about stalking and resources for victims."
   role:
     - additional
 
@@ -542,7 +588,7 @@
   type:
     - survivor-services
   url: "http://www.ovw.usdoj.gov/statedomestic.htm"
-  description: "Sexual assault and domestic violence coalitions often maintain statewide crisis lines and link to local service providers and local crisis lines.  These coalitions are excellent resources for information about sexual assault and the options available in your state."
+  description: "Sexual assault and domestic violence coalitions often maintain statewide crisis lines and link to local service providers and local crisis lines. These coalitions are excellent resources for information about sexual assault and the options available in your state."
   role:
     - additional
 
@@ -550,7 +596,7 @@
   type:
     - survivor-services
   url: "http://www.tribal-institute.org/"
-  description: "Materials available through the website, which serves as a resource for American Indian and Alaska Native Nations, include laws and publications on sexual assault, stalking, domestic violence, and more.  "
+  description: "This website serves as a resource for American Indian and Alaska Native Nations, include laws and publications on sexual assault, stalking, domestic violence, and more."
   role:
     - additional
 
@@ -566,7 +612,7 @@
   type:
     - survivor-services
   url: "http://www.weareultraviolet.org"
-  description: "Advocacy organization mobilizing against sexism to expand women’s rights, though grassroots, people-powered campaigns.  "
+  description: "Ultra Violet is an advocacy organization mobilizing against sexism to expand women’s rights, though grassroots, people-powered campaigns."
   role:
     - additional
 
@@ -574,13 +620,13 @@
   type:
     - survivor-services
   url: "http://www.victimrights.org/about-vrlc"
-  description: "Provides national training for attorneys and advocates on issues of sexual assault. "
+  description: "The Victim Rights Law Cneter provides national training for attorneys and advocates on issues of sexual assault."
   role:
     - additional
 
 - name: "Black Women’s Blueprint Project, in partnership with the National Organization of Sisters of Color Ending Sexual Assault"
   url: "http://www.blackwomensblueprint.org"
-  description: "Offer targeted technical assistance and training to address violence against women on campus for Historically Black Colleges and Universities (HBCU) across the nation. Provide technical assistance on culturally specific prevention and intervention strategies addressing violence against women."
+  description: "Offers targeted technical assistance and training to address violence against women on campus for Historically Black Colleges and Universities (HBCU) across the nation. Provide technical assistance on culturally specific prevention and intervention strategies addressing violence against women."
   role:
     - additional
   type:
@@ -588,11 +634,16 @@
 
 - name: The California Coalition Against Sexual Assault
   url: "http://www.calcasa.org"
-  description: "Offers technical assistance to campuses in order to develop effective coordinated community responses that prevent and respond to sexual assault, domestic violence, dating violence and stalking."
+  description: "This coalition offers technical assistance to campuses in order to develop effective coordinated community responses that prevent and respond to sexual assault, domestic violence, dating violence and stalking."
   role:
     - additional
   type:
     - ovw-assistance-provider
+- name: Campus Clarity
+  url: http://www.campusclarity.com/
+  type:
+    - public-awareness-education
+  description: "Campus Clarity provides online training programs for students and universities."
 
 - name: The Clery Center for Security on Campus
   url: "http://www.securityoncampus.org"
@@ -604,7 +655,7 @@
 
 - name: East Central University
   url: "http://www.ecok.edu/administration/student-development/grants/sttaable/mission-statement"
-  description: "Offers both executive/administrative peer-to-peer technical assistance, education and training to help grantees meet the mandatory law enforcement training component of the Campus Program.  Serves as a mentor to campuses and their law enforcement/security departments and governing boards."
+  description: "East Central University offers both executive/administrative peer-to-peer technical assistance, education and training to help grantees meet the mandatory law enforcement training component of the Campus Program. Serves as a mentor to campuses and their law enforcement/security departments and governing boards."
   role:
     - additional
   type:
@@ -612,7 +663,7 @@
 
 - name: Green Dot
   url: "http://www.livethegreendot.com"
-  description: "Offers training institutes and campus-specific consultation that is research informed, data supported and consistent with the mandatory prevention and education component of the Campus Program.  Helps campuses mobilize a broad-base of their communities in prevention efforts."
+  description: "Green Dot offers training institutes and campus-specific consultation that is research informed, data supported and consistent with the mandatory prevention and education component of the Campus Program. Helps campuses mobilize a broad-base of their communities in prevention efforts."
   role:
     - additional
   type:
@@ -628,7 +679,7 @@
 
 - name: The Mississippi Coalition Against Sexual Assault
   url: "http://www.mscasa.org"
-  description: "Comprehensive training focuses on developing and implementing campus policies, protocols, and training programs for hearing officers and disciplinary boards to ensure more effective responses to the crimes of domestic violence, dating violence, sexual assault, and stalking on campus."
+  description: "This coalitions provides comprehensive training that focuses on developing and implementing campus policies, protocols, and training programs for hearing officers and disciplinary boards to ensure more effective responses to the crimes of domestic violence, dating violence, sexual assault, and stalking on campus."
   role:
     - additional
   type:
@@ -661,3 +712,97 @@
   type:
     - hotline
   description: "If you or someone you know is suicidal or in emotional distress, contact the National Suicide Prevention Lifeline. Trained crisis workers are available to talk 24 hours a day, 7 days a week. Your confidential and toll-free call goes to the nearest crisis center in the Lifeline national network. These centers provide crisis counseling and mental health referrals."
+
+- name: "Stop It Now!"
+  url: http://www.stopitnow.org/
+  tel: 1.888.PREVENT (7738368)
+  type:
+    - public-awareness-education
+    - offender-treatment
+  description: "Stop It Now is a national organization that works to organize communities around prevention resources, offering training, information, and resources for families and communities to prevent and respond to sexual violence."
+
+- name: "Substance Abuse and Mental Health Services Administration (SAMHSA)"
+  url: http://findtreatment.samhsa.gov/MHTreatmentLocator/faces/quickSearch.jspx
+  type:
+    - survivor-services
+  description: "SAMSHA is a federal agency that provides mental health resources and information for survivors of abuse, including a tool to help you find the mental health treatment program nearest you."
+
+- name: National Children’s Advocacy Center
+  url: http://www.nationalcac.org/
+  description: "This Children’s Advocacy Center (CAC) coordinates national prevention and intervention services, while serving as the local CAC for Huntsville, Alabama."
+  type: public-awareness-education
+  role: k-12
+
+- name: The National Children’s Alliance
+  url: http://www.nationalchildrensalliance.org/
+  description: The National Children’s Alliance (NCA) is the  national association and accrediting body for the hundreds of Children’s Advocacy Centers (CAC) in communities throughout the country. The NCA offers prevention training and information, as well as a map and search tool to locate the CAC nearest you.
+  type: public-awareness-education
+  role: k-12
+
+- name: Northeast Regional Children’s Advocacy Center
+  url: https://nrcac.wordpress.com/
+  description: This CAC provides training and technical assistance resources for communities to develop Multidisciplinary Child Abuse Teams and Children’s Advocacy Centers in the Northeast.
+  type: public-awareness-education
+  role: k-12
+
+- name: Southern Regional Children’s Advocacy Center
+  description: This CAC provides training and technical assistance resources for communities to develop Multidisciplinary Child Abuse Teams and Children’s Advocacy Centers in the South.
+  url: http://www.srcac.org/
+  type: public-awareness-education
+  role: k-12
+
+- name: Midwest Regional Children’s Advocacy Center
+  description: This CAC provides training and technical assistance resources for communities to develop Multidisciplinary Child Abuse Teams and Children’s Advocacy Centers in the Midwest.
+  url: http://www.mrcac.org/
+  type: public-awareness-education
+  role: k-12
+
+- name: Western Regional Children’s Advocacy Center
+  description: This CAC provides training and technical assistance resources for communities to develop Multidisciplinary Child Abuse Teams and Children’s Advocacy Centers in the West.
+  url: http://www.westernregionalcac.org/
+  type: public-awareness-education
+  role: k-12
+
+- name: The National Child Traumatic Stress Network (NCTSN)
+  description: "NCTSN is a national organization funded by the U.S. Department of Health and Human Services that provides resources and information for families with children who are survivors of sexual assault."
+  url: http://www.nctsn.org/trauma-types/sexual-abuse
+  type: public-awareness-education
+  role: k-12
+
+- name: Autism Speaks
+  description: Autism Speaks offers resources for people with autism, including advice and resources for prevention of sexual violence and survivors of sexual violence with autism.
+  role: disability
+  url: https://www.autismspeaks.org/family-services/autism-safety-project/sexual-abuse#Resources
+  type: public-awareness-education
+
+- name: Parent Centers
+  description: Local Parent Centers can connect families with local resources to more effectively address the educational, counseling, and medical needs of youth with disabilities.
+  role: disability
+  url: http://www.parentcenterhub.org/find-your-center/
+  type: public-awareness-education
+
+- name: Association for the Treatment of Sexual Abusers
+  description: ATSA offers an annual conference, fact sheets, and other materials for professionals working with adults, adolescents, or children.  In particular they have two summaries, one about adolescents and one about children that provide an overview of the issues facing this population.  
+  url: http://www.atsa.com/
+  type: offender-treatment
+  role: additional
+- name: Center for Sex Offender Management
+  description: CSOM offers the most in-depth selection of curricula, fact sheets, and a variety of other educational materials for anyone interested in learning more about adults, adolescents, or children who have caused sexual harm. 
+  url: http://www.csom.org/
+  type: offender-treatment
+  role: additional
+- name: National Adolescent Perpetrator Network at the Kempe Center
+  description: NAPN hosts an annual conference for those working with adolescents or children who have sexually abused.
+  url: http://www.ucdenver.edu/academics/colleges/medicalschool/departments/pediatrics/subs/can/NAPN/Pages/NAPN.aspx
+  type: offender-treatment
+  role: additional
+- name: NEARI Press
+  description: In addition to books, this nonprofit offers free webinars, free online courses and a monthly newsletter about current research for professionals working with children and/or youth with sexual behavior problems. 
+  url: http://www.nearipress.org/
+  type: offender-treatment
+  role: additional
+- name: National Center for Sexual Behavior in Youth
+  description: This website is funded through an Office of Juvenile Justice and Delinquency Prevention (OJJDP) grant and provides Information for parents of youths with sexual behavior problems.  The website will have information for professionals and others working with these youths in the coming months. 
+  url: http://www.ncby.org/
+  type: offender-treatment
+  role: additional
