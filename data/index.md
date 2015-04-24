@@ -7,7 +7,7 @@ permalink: /data/
 
 ## School-by-School Enforcement Map
 
-This map includes information about resolved school-level enforcement activities conducted by the U.S. Departments of Education and Justice. These activities include Title IX resolution agreements addressing sexual violence on campuses from the Department of Education’s Office for Civil Rights, Clery Act reports from the Department of Education’s Federal Student Aid office, and Title IX and Title IV resolution agreements and other court filings addressing sexual violence and sexual harassment on campuses from the Department of Justice’s Civil Rights Division. For an explanation of the Clery Act and Titles IX and IV, please see [the Key Terms and Definitions section of the Students page.](/students/#key-terms-and-definitions)
+This map includes information about resolved school-level enforcement activities conducted by the U.S. Departments of Education and Justice. These activities include Title IX resolution agreements addressing sexual violence on campuses from the Department of Education’s Office for Civil Rights, Clery Act reports from the Department of Education’s Federal Student Aid office, and Title IX and Title IV resolution agreements and other court filings addressing sexual violence and sexual harassment on campuses from the Department of Justice’s Civil Rights Division. For an explanation of the Clery Act and Titles IX and IV, please see the Key Terms and Definitions section of the [the Students page.](/students/#key-terms-and-definitions)
 
 <!--[if lte IE 8]>
   <style>
@@ -21,7 +21,7 @@ This map includes information about resolved school-level enforcement activities
 <div class="resource-cite">Map Data Courtesy <a href="https://github.com/shannonturner/education-compliance-reports" target="_blank">Shannon Turner</a>
 </div>
 
-The U.S. Department of Education, Office for Civil Rights (OCR) is posting nearly all recent resolution letters and agreements with schools on its [website](http://www2.ed.gov/about/offices/list/ocr/docs/investigations/search-ocr.html).  OCR will also make public the schools that are under OCR investigation, including those that involve Title IX sexual violence allegations.  To ensure that the most up-to-date information is provided, interested parties should contact [OCR headquarters](malito:ocr@ed.gov) or the [closest regional office](https://wdcrobcolp01.ed.gov/CFAPPS/OCR/contactus.cfm).
+The U.S. Department of Education, Office for Civil Rights (OCR), is posting recent resolution letters and agreements with schools on its [website](http://www2.ed.gov/about/offices/list/ocr/docs/investigations/search-ocr.html).  OCR will also make public the schools that are under OCR investigation, including those that involve Title IX sexual violence allegations.  To ensure that the most up-to-date information is provided, interested parties should contact [OCR headquarters](malito:ocr@ed.gov) or the [closest regional office](https://wdcrobcolp01.ed.gov/CFAPPS/OCR/contactus.cfm).
 
 ## Data.gov
 
