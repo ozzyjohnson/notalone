@@ -108,7 +108,7 @@ If you believe you are a victim of sex-based discrimination by, in, or under an 
 
 If you file a complaint of sex-based discrimination with the DOJ, it can also be reviewed under Title IV of the Civil Rights Act of 1964 (Title IV), which provides similar protections to Title IX at all public schools.
 
-[See more information about filing complaints with the Departments of Justice and Education.]()
+[See more information about filing complaints with the Departments of Justice and Education.]({{ site.baseurl }}/assets/how-to-file-a-complaint.pdf)
 
 </div>
 

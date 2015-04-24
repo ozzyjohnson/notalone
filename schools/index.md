@@ -119,7 +119,6 @@ We have not endeavored with these checklists to provide schools with all the ans
 
 <div class="section-context-links">
 * [Read the sexual misconduct policy checklist]({{ site.baseurl }}/assets/checklist-for-campus-sexual-misconduct-policies.pdf)
-*	Read the elementary and secondary school sexual misconduct policy checklist (coming soon)
 </div>
 
 ### Role of Title IX Coordinator
@@ -286,7 +285,7 @@ A campus-wide approach to sexual violence and explore topics such as evaluating 
 </div>
 </div>
 
-## Legal Guidance, Policy Guidance, and Resources for Institutions of Higher Education
+## Resources for Institutions of Higher Education Only
 <div class="section-context">
 ### Understanding FERPA, the Clery Act, and Title IX
 
