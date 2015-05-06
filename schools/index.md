@@ -18,6 +18,15 @@ permalink: /schools/
 <div class="section-context-links">
 * [Read the question-and-answer document](http://www2.ed.gov/about/offices/list/ocr/docs/qa-201404-title-ix.pdf)
 </div>
+
+#### Dear Colleague Letter and Resource Guide on Title IX Coordinators (2015)
+
+* In April 2015, the U.S. Department of Education’s Office for Civil Rights (OCR) issued a guidance package emphasizing the responsibility of school districts, colleges, and universities to designate a Title IX coordinators.
+* This guidance package includes three documents: a Dear Colleague Letter to school districts, colleges, and universities reminding them of their obligation to designate a Title IX coordinator; a letter to Title IX coordinators that provides them with more information about their important role; and a Title IX resource guide that includes an overview of Title IX’s requirements in several key areas, including sex-based harassment.
+
+<div class="section-context-links">
+* [Read the guidance package on Title IX coordinators](http://www2.ed.gov/policy/rights/guid/ocr/title-ix-coordinators.html)
+</div>
 </div>
 
 <div class="section-context-text">

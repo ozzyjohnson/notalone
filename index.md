@@ -18,7 +18,8 @@ level add clarifying information.
 NotAlone was launched in connection with the White House Task Force to
 Protect Students from Sexual Assault. The Task Force was established on
 January 22, 2014 – and since then, thousands of people have shared their
-stories and ideas about how best to eliminate sexual assault in schools.
+stories and ideas about how best to eliminate sexual assault in schools. On
+April 29, 2014, we released our first report, which can be viewed [here](https://www.notalone.gov/assets/report.pdf).
 
 {::nomarkdown}
 <a class="btn action" href="#find-box">Explore</a>
