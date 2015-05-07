@@ -14,4 +14,4 @@ deploy:
   space: dev
   on:
     repo: ozzyjohnson/notalone
-    branch: travis-test
+    branch: new-travis
