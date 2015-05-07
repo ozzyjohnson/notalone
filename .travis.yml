@@ -1,0 +1,17 @@
+sudo: true
+language: ruby
+rvm:
+- 2.1
+script: jekyll build ./_site
+deploy:
+  provider: cloudfoundry
+  edge: true
+  api: https://api.18f.gov
+  username: deploy-notalone
+  password:
+    secure: SAm2h5QI0pP/a/ZfEYj4JKgjNukGNR82a61LAoYNQF2g36r769tJQBNQOTZZbRoUn078Hb8CQ3A37kltCzWHjw2E5Ht6qXkM6x409MHlLzJCup0wxs3Ds5LWE0gEVKAInIgjRVowjoG8tL6wupcILuyNV9U7Q53vENmXIeQKbo4d2nPsXSX/xPAIkl8JZn+Rju3eIUB5gvbpOb5jCEJx9GA3+uMf2YEyQiWXu4zi9DETMlscKLEkQ9fExWfakR76txkePNDaxh8caUNCEWTg5RCKVa6mxN+w1zutXGIv9Ic8U5w4Nej5TgPCTk8NRVcYuCJMAm7qxoRzzte6IzgKR4zY0Do+BjRYgp1xJJx4MqRkbz386zbfyVSTUwNtkBLjmd9p6PjF51C9Cz7ChJBCzj5r7MZY7Kch2WIugWNg0L6M/aLOs1xmcHT0M9qOae02Rm9ux/nbGD2IS0giv7ZibwmQ3gBonQ8mt9wzKV47XA+xihQDwoAE9l/ojx+yewM/EBOn3aa/TsZjOx4biQI20LyO34SVJMV1ScTZ//Zmiv9mlEderBivdPw37KY8CHgBZ/PyzcEWp9qZ45kI9mv6HGEg9gC+OjMKb3w5osPesP2j0KBE0aD5ypVLwSmsZ7/KBllAEQz3+7nkfTee8h+cjxpQjMLtoQc1f79m9ueg76I=
+  organization: notalone
+  space: dev
+  on:
+    repo: ozzyjohnson/notalone
+    branch: travis-test
